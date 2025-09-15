@@ -11,6 +11,4 @@ I'm a math graduate student at Caltech under the supervision of Professor [Tony 
 
 
 Research
-======
 
-------
