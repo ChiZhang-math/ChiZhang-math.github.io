@@ -26,7 +26,7 @@ I work on algebraic geometry including problem on enumerative geometry, mirror s
 
 Papers
 ======
-[Unfolding of equivariant F-bundles and applications]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, C. Li, T. Y. Yu, S. Zhang, (arXiv:2505.09950), 2025.
+[Unfolding of equivariant F-bundles and applications](https://www.arxiv.org/abs/2505.09950), joint with T. Hinault, C. Li, T. Y. Yu, S. Zhang, (arXiv:2505.09950), 2025.
 
 [Decomposition and Framing of F-bundles and Applications to Quantum Cohomology]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, T. Y. Yu, S. Zhang, (arXiv:2411.02266), 2024.
 
