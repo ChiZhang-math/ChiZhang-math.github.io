@@ -28,5 +28,10 @@ Papers
 ======
 [Unfolding of equivariant F-bundles and applications]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, C. Li, T. Y. Yu, Shaowu. Zhang, (arXiv:2505.09950), 2025.
 
-[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology]([[https://www.arxiv.org/abs/2505.09950](https://arxiv.org/abs/2411.02266)]), joint with T. Hinault, T. Y. Yu, C. Zhang, (arXiv:2411.02266), 2024.
+[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, T. Y. Yu, Shaowu. Zhang, (arXiv:2411.02266), 2024.
+
+[A Plucker coordinate mirror for partial flag varieties and quantum Schubert calculus]([https://arxiv.org/abs/2401.15640]), with Changzheng Li Konstanze Rietsch, and Mingzhi Yang (arXiv: math.AG/2401.15640), 2023
+
+
+
 
