@@ -26,12 +26,14 @@ I work on algebraic geometry including problem on enumerative geometry, mirror s
 
 Papers
 ======
-[Unfolding of equivariant F-bundles and applications]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, C. Li, T. Y. Yu, Shaowu. Zhang, (arXiv:2505.09950), 2025.
+[Unfolding of equivariant F-bundles and applications]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, C. Li, T. Y. Yu, S. Zhang, (arXiv:2505.09950), 2025.
 
-[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, T. Y. Yu, Shaowu. Zhang, (arXiv:2411.02266), 2024.
+[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology]([https://www.arxiv.org/abs/2505.09950]), joint with T. Hinault, T. Y. Yu, S. Zhang, (arXiv:2411.02266), 2024.
 
-[A Plucker coordinate mirror for partial flag varieties and quantum Schubert calculus]([https://arxiv.org/abs/2401.15640]), with Changzheng Li Konstanze Rietsch, and Mingzhi Yang (arXiv: math.AG/2401.15640), 2023
+[A Plucker coordinate mirror for partial flag varieties and quantum Schubert calculus]([https://arxiv.org/abs/2401.15640]), joint with C. Li Konstanze Rietsch, and M. Yang (arXiv: math.AG/2401.15640), 2023
 
+[On Frobenius-Perron dimension]([https://arxiv.org/abs/1909.01693]), joint with C. Li, R. Shifler and M. Yang,  Proc. Amer. Math. Soc. 150 (2022), no. 12, 5035–5045. 
 
+[On the fundamental group of open Richardson varieties]([https://arxiv.org/abs/1911.11748]), joint with C. Li and F. Sottile, Commun. Number Theory Phys. 17 (2023), no. 1, 77–101.
 
 
