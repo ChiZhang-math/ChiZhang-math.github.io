@@ -42,10 +42,15 @@ Activities
 
 
    2024.3 Invited talk on Caltech/USC Algebra and Geometry Seminar, University of Southern California, USA.
+   
    2024.7 Invited talk on Sun Yat-sen University, Guangzhou, China.
+   
    2025.11 Invited talk on PUC-Rio.
+   
    2025.12 Invited talk on University of Oregon.
+   
    Co-organize Caltech algebraic geometry seminar.
+   
    Assist on organized Winter School on Enumerative Geometry and Mirror Symmetry, January 22-24, 2025, Caltech.
 
 
