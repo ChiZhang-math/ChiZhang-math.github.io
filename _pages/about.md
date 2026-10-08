@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a math graduate student at Caltech under the supervision of Professor [Tony Yue Yu](https://tyy.caltech.edu/).
+I'm a research fellow at KIAS under the supervision of Professor [Young-Hoon Kiem](https://sites.google.com/site/yhkiem/home?pli=1&authuser=0).
 
 
 Research
@@ -28,7 +28,7 @@ Papers
 ======
 [Unfolding of equivariant F-bundles and applications](https://www.arxiv.org/abs/2505.09950), joint with T. Hinault, C. Li, T. Y. Yu, S. Zhang, (arXiv:2505.09950), 2025.
 
-[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology](https://arxiv.org/abs/2411.02266), joint with T. Hinault, T. Y. Yu, S. Zhang, (arXiv:2411.02266), 2024.
+[Decomposition and Framing of F-bundles and Applications to Quantum Cohomology](https://arxiv.org/abs/2411.02266), joint with T. Hinault, T. Y. Yu, S. Zhang, Proceedings of the American Mathematical Society 150 (12), 5035-5045, 2026
 
 [A Plucker coordinate mirror for partial flag varieties and quantum Schubert calculus](https://arxiv.org/abs/2401.15640), joint with C. Li Konstanze Rietsch, and M. Yang (arXiv: math.AG/2401.15640), 2023
 
