@@ -9,6 +9,7 @@ redirect_from:
 
 I'm a research fellow at KIAS under the supervision of Professor [Young-Hoon Kiem](https://sites.google.com/site/yhkiem/home?pli=1&authuser=0).
 
+I got Ph.D at Caltech, supervised by Professor [Tony Yue Yu](https://tyy.caltech.edu/).
 
 Research
 ======
